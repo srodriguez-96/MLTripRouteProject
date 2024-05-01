@@ -20,6 +20,10 @@ def main():
     # Remove specified columns
     df = df.drop(columns=columns_to_remove, axis=1)
 
+    # Use different models -> XG Boost, #logistic Regression, Rand Forest
+    # instead of deleting features just fill with filler values
+    # do the akdjklawdkl;
+
     feature1 = 'BusinessAcceptsCreditCards'
     feature2 = 'WiFi'
     feature3 = 'RestaurantsPriceRange2'
@@ -44,6 +48,8 @@ def main():
         else:
             #if feature not in this row we are going to drop this row later
             dropRows.append(index)
+            
+        #delete break later
         break
 
     sc = StandardScaler()

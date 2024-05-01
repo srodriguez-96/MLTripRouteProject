@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
-def linearRegModel(X_train, y_train, X_test, y_test, data, userData):
+def linearRegModel(X_train, y_train, X_test, y_test, data, X):
     #Initialize and train the linear regression model
     model = LinearRegression()
     model.fit(X_train, y_train)

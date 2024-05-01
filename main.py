@@ -4,6 +4,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 import svm
+import dataCleaning
 import pandas as pd
 
 

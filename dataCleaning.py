@@ -9,7 +9,8 @@ def dataClean():
     #Loading the CSV file with appropriate column names
     column_names = ['business_id', 'name', 'address', 'city', 'state', 'postal_code',
                     'latitude', 'longitude', 'stars', 'review_count', 'is_open', 'attributes', 'categories']
-    data = pd.read_csv('hotels_only.csv', header=None, names=column_names)
+    #data = pd.read_csv('hotels_only.csv', header=None, names=column_names)
+    data = pd.read_csv('hotels_only.csv', header=None, names = column_names)
     data.head()
 
     def parse_features(attributes):

@@ -1,20 +1,18 @@
 import pandas as pd
 import numpy as np
-import ast
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import log_loss
 
-def linearRegModel(X_train, y_train, X_test, y_test, data, X):
-    #Initialize and train the linear regression model
-    model = LinearRegression()
+def logisticRegModel(X_train, y_train, X_test, y_test, data, X):
+    #Initialize and train the logistic regression model
+    model = LogisticRegression()
     model.fit(X_train, y_train)
 
 
-    #Predicting and calculating MSE
+    #Predicting and calculating log loss
     y_pred = model.predict(X_test)
-    mse = mean_squared_error(y_test, y_pred)
-    print(f'Mean Squared Error linear: {mse}')
+    logloss = log_loss(y_test, y_pred)
+    print(f'Log Loss: {logloss}')
 
     #Predicting the ratings for all hotels
     data['predicted_stars'] = model.predict(X)
@@ -23,7 +21,7 @@ def linearRegModel(X_train, y_train, X_test, y_test, data, X):
     ranked_hotels = data.sort_values(by='predicted_stars', ascending=False)
 
     #Print the ranked hotels
-    #print(ranked_hotels[['name', 'predicted_stars']])
+    print(ranked_hotels[['name', 'predicted_stars']])
 
     #Combine predictions with additional hotel details
     detailed_predictions = pd.DataFrame({
@@ -34,6 +32,6 @@ def linearRegModel(X_train, y_train, X_test, y_test, data, X):
     }).sort_values(by='Predicted Stars', ascending=False)  #Sort by predicted stars for ranking
 
     #Saving the data to a CSV file
-    detailed_predictions.to_csv('hotels_ranked.csv', sep=',', index=False)
+    detailed_predictions.to_csv('hotels_ranked_log.csv', sep=',', index=False)
 
     return model

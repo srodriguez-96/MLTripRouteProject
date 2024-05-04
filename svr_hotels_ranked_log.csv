@@ -1,0 +1,625 @@
+Hotel Name,Address,Actual Stars,Predicted Stars
+La Boheme,6427 112 Avenue Northwest,3.0,3.9
+Harvest Room,10065 - 100th Street,4.0,3.8
+Four Seasons Resort The Biltmore Santa Barbara,1260 Channel Drive,4.5,3.7
+Mar Monte Hotel - Hyatt,1111 E Cabrillo Blvd,2.5,3.7
+Belmond El Encanto,800 Alvarado Pl,4.0,3.7
+The Vinoy Renaissance St. Petersburg Resort & Golf Club,501 5th Ave NE,4.0,3.7
+Capitol Grille,231 6th Ave N,3.5,3.7
+Lambertville Station,11 Bridge St,4.0,3.7
+The Don CeSar,3400 Gulf Blvd,3.5,3.7
+Royal Sonesta New Orleans,300 Bourbon St,3.5,3.7
+Embassy Suites by Hilton Tampa Downtown Convention Center,513 S Florida Ave,2.5,3.7
+Woodspring Suites Reno Sparks,140 Salomon Ct,1.0,3.6
+Safety Harbor Resort & Spa Trademark Collection,105 N Bayshore Drive,3.0,3.6
+Home2 Suites by Hilton Nashville Bellevue,7616 Highway 70 S,4.0,3.6
+Motel 6,340 Hester Dr,2.5,3.6
+Thistletop Inn,1284 Hitt Ln,4.5,3.6
+Eldorado At The Row,345 N Virginia St,1.0,3.6
+Maison de Macarty,3820 Burgundy St,5.0,3.6
+12 South Inn Suites,918 Knox Ave,4.0,3.6
+Park Avenue Mansion Bed and Breakfast,2007 Park Ave,4.5,3.6
+Fairfield Inn & Suites Nashville Hendersonville,303 Indian Lake Blvd,4.0,3.6
+Inn at Little Harbor,611 Destiny Dr,2.0,3.6
+Baymont Inn & Suites Hazelwood,323 Taylor Road,1.0,3.6
+The Kenwood Gables Bed & Breakfast,2801 7th Ave N,5.0,3.6
+The Timothy Demonbreun House,746 Benton Ave,3.0,3.6
+The Burgundy Bed and Breakfast,2513 Burgundy St,4.5,3.6
+Blue60 Guest House,1008 Elysian Fields Ave,5.0,3.6
+Super 8 Motel-Edmonton West,16818 118 Avenue NW,2.5,3.6
+Aviator Hotel & Suites,6921 S Lindbergh Blvd,2.5,3.6
+Carpinteria Shores,4975 Sandyland Rd,4.0,3.6
+Baymont Inn & Suites Indianapolis South,4402 E Creek View Dr,1.0,3.6
+Ramada by Wyndham Nashville/Music Valley,2420 Music Valley Dr,1.0,3.6
+Blue Waters Treasure Island,8105 W Gulf Blvd,4.0,3.6
+Harbour House Inn,104 Bath St,5.0,3.6
+River House at Odette's,274 S River Rd,3.0,3.6
+Caroline House Nashville Historic Inn,906 Bradford Ave,5.0,3.6
+Top of the Riverfront,Millennium Hotel,3.0,3.6
+Silverstone Bed and Breakfast,8840 Stenton Ave,3.5,3.6
+Hampton Inn & Suites by Hilton Nashville North Skyline,3451 Dickerson Pke,4.5,3.6
+Cat Mountain Lodge & Roadside Inn,2727 S Kinney Rd,5.0,3.6
+Inn of King of Prussia,550 W Dekalb Pike,1.5,3.6
+Element Nashville Vanderbilt West End,4 City Blvd,2.5,3.6
+Madame Isabelle's,1021 Kerlerec St,5.0,3.6
+Saint Louis University,1 N Grand Blvd,4.0,3.6
+Staybridge Suites - Franklin,3601 Mallory Ln,5.0,3.6
+The Sutton Place Hotel,10235 101 Street NW,3.0,3.6
+1501 Linden Manor Bed & Breakfast,1501 Linden Ave,4.0,3.6
+Easy Inn,1661 E 6th St,2.0,3.6
+siegel select -Tucson,4800 S Butterfield Dr,1.0,3.6
+The Inn on Davis-Monthan,3390 S Craycroft,4.0,3.6
+Hyatt House,14 Century Blvd,4.5,3.6
+The Rittenhouse Hotel,210 W Rittenhouse Sq,4.0,3.6
+Bridgetown Mill House Restaurant & Inn,760 Langhorne Newtown Rd,2.5,3.6
+Chamounix Mansion Youth Hostel,3250 Chamounix Dr,3.0,3.6
+Legacy Vacation Club,140 Court St,2.0,3.6
+Ramada by Wyndham Edmonton Yellowhead NW,15004 Yellowhead Trail,1.0,3.6
+Woodsprings Suites,15672 US Hwy 19,2.0,3.6
+Metterra Hotel On Whyte,10454-82 Avenue NW,4.0,3.6
+Best Western O'Fallon Hotel,116 Regency Park,2.0,3.6
+Fireside Market,205 E 4th St,3.5,3.6
+Travel Resort Services,13030 Gulf Blvd,1.5,3.6
+Mon Ami Bed and Breakfast,5902 E 9th St,5.0,3.6
+The Harney House Inn,345 N East St,5.0,3.6
+"The Roosevelt New Orleans, A Waldorf Astoria Hotel",130 Roosevelt Way,4.0,3.6
+Derbès Mansion,2257 Bayou Rd,4.0,3.6
+Tru by Hilton Audubon Valley Forge,825 Forge Ave,3.5,3.6
+El Pais Motel & Campgrounds,3445 E Benson Hwy,5.0,3.6
+Benton Park Inn,2017 Arsenal St,5.0,3.6
+Canterbury Hotel,123 S Illinois St,4.0,3.6
+Casa Magnolia Bed and Breakfast,4171 Magnolia Ave,5.0,3.6
+Sextant,822 Perdido St,2.0,3.6
+Forget-me-not Bed and Breakfast,2712 S Compton Ave,5.0,3.6
+Hampton Inn & Suites Deptford,1253 Hurffville Rd,2.5,3.6
+Reno Regency Apartments,590 Lake St,4.0,3.6
+Hotel Du Village,2535 River Rd,3.5,3.6
+Music City Hostel,1809 Patterson St,3.5,3.6
+Pass-A-Grille Beach,,4.5,3.6
+Beall Mansion An Elegant Bed & Breakfast,407 E 12th St,5.0,3.4
+Delta Hotels by Marriott Indianapolis Airport,5860 Fortune Cir W,3.0,3.4
+Club Wyndham Clearwater Beach,110 Coronado Dr,3.5,3.4
+BentoLiving Chestnut Hill,321 Hart St,4.5,3.4
+OYO Hotel St. Louis Downtown MO,400 South 14 St,2.0,3.4
+Peppertrees Bed & Breakfast,724 E University Blvd,4.5,3.4
+DoubleTree by Hilton Hotel New Orleans,300 Canal St,3.0,3.4
+Funny Library Coffee Shop,1 Music Square W,4.0,3.4
+Miraval Arizona Resort & Spa,5000 E Via Estancia,3.5,3.4
+Urban Oasis Furnished Apartments,3418 W North A St,5.0,3.4
+Kimpton Canary Hotel,31 W Carrillo St,4.0,3.4
+The Jazz Playhouse,300 Bourbon St,4.5,3.4
+Bourbon Orleans Hotel,717 Orleans St,4.0,3.4
+Hilton Franklin Cool Springs,601 Corporate Centre Dr,4.0,3.4
+Jensen Audio Visual,"75 Aero Camino Rd, Ste 103",5.0,3.4
+Chestnut Hill Hotel,8229 Germantown Ave,3.5,3.4
+Lokal Hotel,139 N 3rd St,4.5,3.4
+Canopy by Hilton Philadelphia Center City,1180 Ludlow St,4.5,3.4
+Red Lion Hotel St. Louis,400 S 14th Street,1.5,3.4
+Hyatt Regency Philadelphia,"Penn's Landing, 201 S Columbus Blvd",3.5,3.4
+Le Méridien New Orleans,333 Poydras St,3.0,3.4
+OYO Hotel Tucson Downtown,1222 S Freeway RD,1.0,3.4
+Bob Evans,2305 N Shadeland Ave,2.5,3.4
+Hampton Inn & Suites Philadelphia/Media,300 S Beatty Rd,4.0,3.4
+The Birch & Vine,340 Beach Dr NE,3.5,3.4
+Boomtown - Reno,2100 Boomtown Garson Road,2.5,3.4
+Tru by Hilton Smyrna Nashville,950 Colonnade Dr,3.5,3.4
+TradeWinds Island Grand,5500 Gulf Blvd,3.0,3.4
+Hollywood Casino St Louis,777 Casino Center Dr,2.0,3.4
+Rodeway Inn,5733 Airline Dr,1.5,3.4
+Zoe Bistro At W New Orleans,333 Poydras St,2.0,3.4
+The Dive Motel,1414 Dickerson Pike,4.0,3.4
+Hilton Harth,601 Corporate Centre Dr,4.0,3.4
+Candlewood Suites Nashville - Franklin,1305 Murfreesboro Rd,2.0,3.4
+Philadelphia Airport Marriott,"One Arrivals Road, Terminal B",3.0,3.4
+Degas House,2306 Esplanade Ave,4.0,3.4
+The Lodge At Ventana Canyon,6200 N Club House Ln,3.5,3.4
+OYO Hotel Pinellas Park - St. Petersburg North US-19,9359 US Hwy 19 N,1.0,3.4
+Hyatt Centric French Quarter New Orleans,800 Iberville St,4.0,3.4
+The Hotel ML,915 NJ-73,1.5,3.4
+Columns,3811 St Charles Ave,3.5,3.4
+Korman Residential at Willow Shores,4067 Harbour Dr,3.0,3.4
+Red Roof Inn Tampa Bay - St Petersburg,4999 34th St N,2.0,3.4
+Carriage House of New Hope,8 E Mechanic St,4.5,3.4
+Club Wyndham Nashville,2415 McGavock Pike,2.5,3.4
+Virgin Hotels Nashville,1 Music Sq W,3.0,3.4
+Lambertville House,32 Bridge St,3.5,3.4
+Fusion Resort,290 107th Ave,3.0,3.4
+ROOST Rittenhouse,1831 Chestnut St,4.0,3.4
+Marriott St. Louis Grand,800 Washington Ave,3.0,3.4
+Hilton Philadelphia at Penn's Landing,201 S Christopher Columbus Blvd,3.5,3.4
+Hotel Du Village,2535 River Rd,3.5,3.4
+Wyndham Garden Clearwater Beach,691 South Gulfview Blvd,3.0,3.4
+A Storage Inn,320 Old Fullerton Rd,4.5,3.4
+Holiday Inn Club Vacations New Orleans Resort,203 Carondelet St,3.0,3.4
+The Inn at Montchanin Village & Spa,528 Montchanin Rd,4.0,3.4
+Canyon Ranch Tucson,8600 E Rockcliff Rd,4.0,3.4
+Home2 Suites by Hilton Brandon Tampa,10323 Palm River Rd,4.5,3.4
+Old Millstream Inn,912 S Main St,3.5,3.4
+Hampton Inn Springfield,620 22nd Ave E,3.5,3.4
+Bob Evans,11720 Tampa Gateway Blvd,3.5,3.4
+Studio 154 Luxury Hotel,154 2nd Ave N,3.0,3.4
+Hotel Warner,120 N High St,3.0,3.4
+Home2 Suites by Hilton Indianapolis Northwest,8930 Wesleyan Rd,2.5,3.4
+Nugget Casino Resort,1100 Nugget Ave,2.5,3.4
+Radisson Inn Tucson Airport,4550 S Palo Verde Rd,1.5,3.4
+Days Inn by Wyndham Nashville Saint Thomas West Hospital,269 White Bridge Road,2.0,3.4
+The Inn at The Union League,1450 Sansom,3.5,3.4
+"The Ritz-Carlton Bacara, Santa Barbara",8301 Hollister Ave,3.5,3.4
+Bobby Hotel,230 4th Ave N,3.5,3.4
+The Doylestown Inn,18 W State St,4.0,3.4
+Residence Inn By Marriott Philadelphia Bala Cynwyd,615 Righters Ferry Rd,4.0,3.4
+The Super Inn,1031 E Benson Hwy,1.0,3.4
+Changing Tides Cottages,225 Boca Ciega Dr,4.0,3.4
+Hampton Inn & Suites Nashville-Downtown,310 4th Ave S,3.5,3.4
+James House Santa Barbara,1632 Chapala St,4.0,3.4
+Philadelphia Marriott Downtown,"1201 Market Street, (guest entrance at 1200 Filbert Street).",3.0,3.4
+Le Meridien Indianapolis,123 S Illinois St,4.5,3.4
+Chimney Hill Estate Inn,207 Goat Hill Rd,3.5,3.4
+BLUFIN Waterfront Grill,3050 N Rocky Point Dr W,4.0,3.4
+OYO Hotel Indianapolis International Airport,5241 W Bradbury Ave,1.0,3.4
+AutoCamp Santa Barbara,2717 De La Vina St,4.0,3.4
+Dwell 912,912 Hickory St,4.5,3.4
+Hotel Saint Vincent,1507 Magazine St,4.0,3.4
+Upham Hotel,1404 De La Vina St,4.0,3.4
+The Mansion at Fontanel,4125 Whites Creek Pike,4.0,3.4
+Wyndham Alumnae House,235 N Merion Ave,4.0,3.4
+Clearwater Beach Marriott Suites on Sand Key,1201 Gulf Boulevard,3.5,3.4
+JW MarriottTucson Starr Pass Resort & Spa,3800 W. Starr Pass Boulevard,3.5,3.4
+Fairfield Inn & Suites Philadelphia Valley Forge/Great Valley,1005 Westlakes Drive,4.0,3.4
+Treasure Island Beach Resort,10800 Gulf Blvd,4.0,3.4
+Hotel Carmichael Autograph Collection,1 Carmichael Square,4.0,3.4
+Country Hearth Inn & Suites Edwardsville St. Louis,1013 Plummer St,4.0,3.4
+Rodney's Grill,633 E Cabrillo Blvd,3.5,3.4
+Royal Relax Inn - Fairmont City,5280 Collinsville Rd,1.0,3.4
+Meadowbrook Apartments,1700 Huntingdon Pike,1.0,3.4
+Coral Casino Beach & Cabana Club,1260 Channel Dr,4.5,3.4
+Ramada Nashville Downtown,303 Interstate Drive,2.0,3.4
+Residence Inn by Marriott Philadelphia Glen Mills/Concordville,11 Fellowship Rd,4.0,3.4
+Holiday Inn Hotel & Suites Tucson Airport-North,4550 South Palo Verde Rd,2.5,3.4
+Sumneytown Hotel,3188 Main St,4.5,3.4
+Hampton Inn & Suites Nashville Downtown Capitol View,530 11th Ave N,5.0,3.4
+Holiday Inn Express & Suites Edmonton South,2440 Calgary Trl,3.0,3.3
+Delta Hotels by Marriott Edmonton South Conference Centre,4404 Gateway Boulevard NW,3.5,3.3
+Sessions Lounge,623 Union St,3.5,3.3
+Hilton Tucson East,7600 E Broadway,3.0,3.3
+Indiana Landmarks -- City Market Catacombs Tours,222 E Market St,3.5,3.3
+Holiday Street Car Restaurant,330 Loyola Ave,3.0,3.3
+Peninsula Inn & Spa,2937 Beach Blvd S,4.0,3.3
+Radisson Hotel & Convention Center Edmonton,4520 76th AveNW,3.0,3.3
+Executive Royal Hotel,10010 178th Street NW,3.5,3.3
+Courtyard by Marriott Edmonton West,10011 184th Street NW,4.5,3.3
+Creole Gardens,1415 Prytania St,4.5,3.3
+Mt Laurel Marriott,915 State Hwy 73 N,2.5,3.3
+Continental Inn & Suites,16625 Stony Plain Road NW,2.0,3.3
+Travelodge Edmonton South,10320 45 Avenue NW,1.5,3.3
+Le Cirque Hotel,2 Lee Cir,3.5,3.3
+Chateau Nova Hotel - Yellowhead,13920 Yellowhead Trail,2.5,3.3
+Holiday Inn Express Edmonton Downtown,10010 104th Street,2.5,3.3
+Indianapolis Motor Speedway,4750 W 16th St,4.5,3.2
+Indianapolis Marriott Downtown,350 W Maryland St,3.5,3.2
+Valley Forge Convention Center,1160 1st Ave,2.5,3.2
+"Home2 Suites by Hilton Philadelphia - Convention Center, PA",1200 Arch St,3.5,3.1
+Howard Johnson Inn Tampa Ybor City,2520 N 50th St,2.0,3.1
+Old Towne Carmel Bed & Breakfast,521 1st Ave NW,5.0,3.1
+Hotel Vinache,1300 Canal St,2.0,3.1
+New Orleans Marriott Metairie at Lakeway,"3838 N Causeway Blvd, Ste 100",3.0,3.1
+Residence Inn Mt Laurel at Bishop's Gate,1000 Bishops Gate Blvd,2.5,3.1
+Super 8 by Wyndham Indianapolis,"4530 S Emerson Ave, I-465, Exit 52",3.0,3.1
+Hilton Philadelphia Airport,4509 Island Ave,2.5,3.1
+Mira Vista Resort,7501 N Wade Rd,4.5,3.1
+Days Inn by Wyndham Runnemede Philadelphia Area,101 East 9th Ave,2.5,3.1
+Inn At East Beach,1029 Orilla Del Mar,3.5,3.1
+Super 8 by Wyndham New Castle,"215 S Dupont Hwy, I-95  Exit 5A to Rt 141",3.5,3.1
+Cambria hotel & suites Indianapolis Airport,6014 Gateway Dr,3.5,3.1
+Shamrock RV Park,260 E Parr Blvd,4.0,3.1
+SpringHill Suites by Marriott Philadelphia Plymouth Meeting,430 Plymouth Road,3.5,3.1
+Fairfield Inn By Marriott,258 Mall Blvd,2.5,3.1
+Super 8 by Wyndham Indianapolis/NE/Castleton Area,"7202 East 82nd Street, I-69/82nd St - Castleton",1.5,3.1
+Bon Maison Guest House,835 Bourbon St,3.5,3.1
+Hampton Inn & Suites Largo,100 E Bay Dr,3.5,3.1
+Hyatt Place St. Petersburg / Downtown,25 2nd St N,4.0,3.1
+El Prado Inn,1601 State St,2.5,3.1
+Jefferson Motel Apts,10116 Gulf Blvd,2.5,3.1
+Baymont Inns & Suites,9202 N 30th St,1.0,3.1
+The Tuxon Hotel,960 S Fwy,4.0,3.1
+Prince Conti Hotel,830 Conti St,3.5,3.1
+Schooner Hotel,14500 Gulf Blvd,3.5,3.1
+Holiday Inn Clearwater Beach S-Harbourside,401 Second St,3.0,3.1
+Holiday Inn Express & Suites Limerick - Pottstown,15 Keystone Dr,3.0,3.1
+Holiday Inn Express & Suites Tampa/Rocky Point Island,3025 North Rocky Point Drive East,3.0,3.1
+Sheraton Indianapolis City Centre Hotel,31 West Ohio St,3.0,3.1
+Days Inn by Wyndham St. Louis North,7350 North Hanley Rd,2.0,3.1
+Whitney Peak Hotel,255 N Virginia St,3.5,3.1
+Extended Stay - Vanderbilt,3311 West End Ave,1.5,3.1
+Econo Lodge Airport @ Rj Stadium,4732 N Dale Mabry,1.5,3.1
+Comfort Inn,4630 Lindell Blvd,2.0,3.1
+Hotel Maison Pierre Lafitte,108 Roosevelt Way,4.5,3.1
+Hilton Garden Inn Kennett Square,815 E Baltimore Pike,3.5,3.1
+Orange Tree Inn,1920 State St,2.0,3.1
+SpringHill Suites by Marriott Nashville Airport,1100 Airport Center Dr,3.0,3.1
+Hampton Inn Bordentown,2004 US Highway 206,4.0,3.1
+The Big Blue House Tucson Boutique Inn,144 E University Blvd,4.0,3.1
+Lambertville Station Restaurant,11 Bridge St,3.5,3.1
+Best Western Plus Meridian,1019 S Progress Ave,3.5,3.1
+Bob Evans,29335 US Hwy 19 N,3.0,3.1
+Hilton St. Louis at the Ballpark,1 S Broadway,2.5,3.1
+Hyatt House Philadelphia/Plymouth Meeting,501 E Germantown Pike,3.5,3.1
+Comfort Inn,8 Commerce Dr,3.0,3.1
+Courtyard by Marriott Philadelphia Willow Grove,2350 Easton Road Route 611,2.5,3.1
+Blue Wave Motel Suites,440 East Shore Dr,4.0,3.1
+Country Inn & Suites,1024 Old Churchmans Rd,2.5,3.1
+Ramada Tucson East,6944 E Tanque Verde Road,2.5,3.1
+Hilton Garden Inn Tampa Suncoast Parkway,2155 Northpointe Pkwy,4.5,3.1
+Plumsteadville Inn,5902 Easton Rd,4.0,3.1
+Fleur De Lis Mansion,1216 Annunciation St,4.0,3.1
+Sheraton Westport Chalet Hotel St. Louis,191 Westport Plz,3.0,3.1
+Ramada Hazelwood,9079 Dunn Rd,1.5,3.1
+La Quinta by Wyndham Indianapolis Airport West,2251 Manchester Dr,2.0,3.1
+Renaissance New Orleans Arts Warehouse District Hotel,700 Tchoupitoulas St,4.0,3.1
+Clayton Plaza Hotel,7750 Carondelet Ave,3.5,3.1
+Beach House Inn,320 W Yanonali St,4.5,3.1
+Days Inn & Suites by Wyndham Cherry Hill - Philadelphia,525 Rte 38 East Kaighns Ave,2.0,3.1
+The Inn at Swarthmore,10 S Chester Rd,4.5,3.1
+Fairfield Inn by Marriott St. Louis Fairview Heights,140 Ludwig Dr,2.5,3.1
+Hilton Garden Inn St. Louis Airport,4450 Evans Pl,3.5,3.1
+Omni Riverfront Hotel,701 Convention Center Blvd,3.5,3.1
+Courtyard by Marriott Nashville Mount Juliet,1980 Providence Pkwy,3.5,3.1
+Hilton Garden Inn Indianapolis Northwest,6930 Intech Blvd,3.5,3.1
+Staybridge Suites Malvern,20 Morehall Road,3.5,3.1
+Hilton Garden Inn Philadelphia Center City,1100 Arch St,3.0,3.1
+Quality Inn & Suites Near St. Louis And I-255,1607 Pontiac Drive,3.0,3.1
+Staybridge Suites Wilmington-Newark,270 Chapman Rd,3.5,3.1
+Quality Suites Nashville Airport,2615 Elm Hill Pk,3.5,3.1
+Ramada by Wyndham La Vergne/Nashville,109 Enterprise Blvd,3.0,3.1
+Orchid Inn at Santa Barbara,420 W Montecito St,4.5,3.1
+Holiday Inn Express & Suites Trinity,2125 Corporate Center Dr,4.5,3.1
+Harrah's New Orleans,228 Poydras St,3.5,3.1
+Rodeway Inn,1115 N. Curtis Rd.,2.0,3.1
+Staybridge Suites Indianapolis-Fishers,9780 Crosspoint Blvd,3.0,3.1
+Molloy Gulf Motel & Cottages,10164 Gulf Blvd,3.5,3.1
+Plaza Resort Club Hotel,121 West St,3.5,3.1
+Fairfield Inn by Marriott,1801 32nd St,2.5,3.1
+Bienville House Hotel,320 Decatur St,4.0,3.1
+The Gulf Beach Resort,"140 51st Ave W, Ste 203",4.0,3.1
+DoubleTree By Hilton St Louis Airport,4505 Woodson Rd,2.5,3.1
+Quality Inn & Conference Center,531 Route 38 West,2.0,3.1
+Quality Inn And Suites,3525 N Shadeland Ave,1.5,3.1
+Knights Inn Mount Laurel,1104 Route 73 South,1.5,3.1
+La Quinta by Wyndham NW Tucson Marana,6020 West Hospitality Rd,2.5,3.1
+Baymont by Wyndham Fishers / Indianapolis Area,9790 N By Northeast Blvd,2.0,3.1
+Super 8 by Wyndham Clearwater/St. Petersburg Airport,"13260 34th St North, Ulmerton Rd  to 34th St North",2.0,3.1
+Dickens House,335 8th Ave NE,4.5,3.1
+DoubleTree by Hilton Hotel Philadelphia Center City,237 S Broad St,3.0,3.1
+Courtyard by Marriott Reno,6855 South Virginia Street,3.0,3.1
+Holiday Inn Metairie New Orleans Airport,2261 N Causeway Blvd,2.5,3.1
+Hampton Inn & Suites Nashville @ Opryland,230 Rudy Cir,4.0,3.1
+Prytania Park Hotel,1525 Prytania St,3.5,3.1
+Drury Inn & Suites St. Louis Brentwood,8700 Eager Rd,4.5,3.1
+Four Points by Sheraton Newark Christiana Wilmington,56 S. Old Baltimore Pike,3.0,3.1
+Candlewood Suites Boise - Towne Square,700 N Cole Rd,3.5,3.1
+Bayview Plaza Waterfront Resort,4321 Gulf Blvd,4.0,3.1
+SpringHill Suites Tampa Brandon,1051 S Falkenburg Rd,3.0,3.1
+Radisson Hotel Philadelphia Northeast,2400 Old Lincoln Hwy,3.0,3.1
+Best Western Bordentown Inn,1068 Route 206,2.5,3.1
+Sonesta Select Tucson Airport,6885 South Tucson Blvd,3.5,3.1
+Hampton Inn and Suites Clayton/St Louis-Galleria Area,216 N Meramec Ave,3.5,3.1
+Courtyard by Marriott Santa Barbara Goleta,401 Storke Road,3.5,3.1
+Holiday Inn Express & Suites Tampa East - Ybor City,2520 N 50th St,4.5,3.1
+Homewood Suites by Hilton Philadelphia-City Avenue,4200 City Ave,3.0,3.1
+Salud,3800 W Starr Pass Blvd,3.5,3.1
+Super 8 by Wyndham Metairie,2421 Clearview Parkway,2.0,3.1
+Staybridge Suites St. Petersburg Downtown,940 5th Ave S,4.0,3.1
+Bon-Aire Resort,4350 Gulf Blvd,4.5,3.1
+"Independence Park Hotel, Bw Premier Collection",235 Chestnut St,4.5,3.1
+Hampton Inn St. Louis-NW I-270,55 Dunn Rd,3.5,3.1
+Days Inn Reno,701 East 7Th Street,2.0,3.1
+Embassy Suites by Hilton Nashville Airport,10 Century Blvd,2.5,3.1
+Four Points by Sheraton Philadelphia Airport,4101A Island Ave,2.5,3.1
+Super 8 by Wyndham NashvilleWest,6924 Charlotte Pike,3.0,3.1
+Vista Inn and Suites Tampa,400 E Bearss Ave,2.0,3.1
+Hampton Inn Clearwater - Central,21030 US Hwy 19 N,2.5,3.1
+Holiday Inn Nashville-Vanderbilt,2613 West End Ave,3.5,3.1
+Hampton Inn & Suites Mt. Juliet,5001 Crossings Cir,4.0,3.1
+Hilton Garden Inn Nashville/Smyrna,2631 Highwood Blvd,3.0,3.1
+Days Hotel New Orleans/Metairie LA,3400 I-10 Service Road W,2.0,3.1
+Extended Stay America - Nashville - Airport - Music City,727 Mcgavock Pike,1.5,3.1
+Ramada by Wyndham Metairie New Orleans Airport,3400 South I-10 Service Rd W,2.5,3.1
+Riverside Suites,1725 E Limberlost Dr,5.0,3.1
+Quality Inn & Suites Tampa - Brandon Near Casino,10007 Princess Palm Ave,2.5,3.1
+TownePlace Suites by Marriott Swedesboro Logan Township,3 Pureland Dr,4.5,3.1
+Extended Stay America - Philadelphia - Airport - Tinicum Blvd.,9000 Tinicum Blvd,1.5,3.1
+Sheraton Music City Hotel,777 McGavock Pike,3.0,3.1
+Island Cay at Clearwater Beach,648 Poinsettia Ave,4.0,3.1
+Best Western St. Louis Inn,6224 Heimos Industrial Park Dr,2.5,3.1
+Courtyard by Marriott Tampa Westshore/Airport,3805 West Cypress,3.0,3.1
+Sandalwood Beach Resort,17100 Gulf Blvd,1.5,3.1
+Quality Inn Airport,2526 Airport Way,2.0,3.1
+Homewood Suites by Hilton Nashville Franklin Cool Springs,2225 E Mcewen Dr,4.0,3.1
+Staybridge Suites Philadelphia-Mt. Laurel,4115 Church Rd,3.0,3.1
+Sheraton Suites Philadelphia Airport,4101 B Island Ave,2.5,3.1
+Holiday Inn St Petersburg N - Clearwater,3535 Ulmerton Rd,3.5,3.1
+INN At Wilmington,300 Rocky Run Pkwy,3.5,3.1
+Embassy Suites by Hilton St. Louis Airport,11237 Lone Eagle Dr,2.5,3.1
+Ramada Tucson,777 W Cushing St,2.5,3.1
+Hawthorn Suites By Wyndham Indianapolis North,3553 Founders Rd,2.0,3.1
+Mr Sandman Motel,1575 S Meridian Rd,2.0,3.1
+Hilton Garden Inn Indianapolis Airport,8910 Hatfield Dr,4.0,3.1
+Tucson Marriott University Park,880 East 2nd Street,2.5,3.1
+La Quinta by Wyndham New Orleans Airport,2610 Williams Blvd,3.0,3.1
+Renaissance Indianapolis North Hotel,11925 N Meridian St,4.0,3.1
+Hotel Arizona,181 West Broadway Blvd,2.5,3.1
+Courtyard by Marriott Indianapolis Airport,2602 Fortune Circle E,3.5,3.1
+La Quinta by Wyndham St. Petersburg Northeast,6638 4th Street North,2.5,3.1
+Sheraton Indianapolis Hotel at Keystone Crossing,8787 Keystone Crossing,2.5,3.1
+Aloft Nashville West End,1719 W End Ave,2.5,3.1
+Brandywine River Hotel,1609 Baltimore Pike,2.5,3.1
+Residence Inn by Marriott Philadelphia West Chester/Exton,10 N Pottstown Pike,2.5,3.1
+Thomas Bond House,129 S 2nd St,4.5,3.1
+Marina Motel Chalmette,5353 Paris Rd,4.0,3.1
+Homewood Suites by Hilton Philadelphia-Great Valley,12 E Swedesford Rd,2.0,3.1
+Best Western Plus Philadelphia Bensalem Hotel,3499 Street Rd,2.5,3.1
+Holiday Inn Express & Suites St Louis Airport,10000 Natural Bridge Rd,3.0,3.1
+Crowne Plaza Tampa Westshore,5303 W Kennedy Blvd,3.0,3.1
+Comfort Inn Indianapolis South I-65,3514 South Keystone Ave,2.5,3.1
+Coast Village Inn,1188 Coast Village Road,3.5,3.1
+Sonesta Simply Suites Philadelphia Mount Laurel,4000 Crawford Pl,2.5,3.1
+Hampton Inn Cherry Hill/Voorhees,121 Laurel Oak Rd,3.0,3.1
+Embassy Suites by Hilton Tampa Airport Westshore,555 N Westshore Blvd,2.5,3.1
+Thunderbird Motel,420 N Virginia St,4.5,3.1
+SpringHill Suites Philadelphia Airport/Ridley Park,201 Industrial Hwy,3.5,3.1
+Comfort Inn & Suites Glen Mills - Philadelphia,1110 Baltimore Pike,2.0,3.1
+SpringHill Suites Boise ParkCenter,424 E ParkCenter Blvd,4.0,3.1
+Hampton Inn Bellevue / Nashville-I-40 West,7815 Coley Davis Rd,3.5,3.1
+Embassy Suites by Hilton Tampa USF Near Busch Gardens,3705 Spectrum Blvd,2.5,3.1
+Ramada,76 Industrial Hwy,2.0,3.1
+The Windsor Suites,1700 Benjamin Franklin Pkwy,3.5,3.1
+Hampton Inn St. Louis/Sunset Hills,1580 South Kirkwood Rd,2.5,3.1
+Townplace Suites Tucson Airport,6595 S Bay Colony Dr,4.5,3.1
+Blue Sands  Motel,421 S Milpas St,4.0,3.1
+Bella Sirena Inn,635 Corey Ave,4.0,3.1
+GLH Hotel,1365 West Grant Rd,1.5,3.1
+TownePlace Suites by Marriott Indianapolis Keystone,8468 Union Chapel Rd,3.5,3.1
+Pear Tree Inn St Louis Arnold,1201 Drury Ln,4.0,3.1
+Holiday Inn Tampa Westshore - Airport Area,700 N Westshore Blvd,2.5,3.1
+The Jesse,306 E 4th St,4.5,3.1
+Red Lion Inn & Suites Boise Airport,4111 S Broadway Ave,2.5,3.1
+Knights Inn Palm Harbor Clearwater,32000 US Highway 19 N,1.0,3.1
+The Eagle Inn,232 Natoma Ave,4.5,3.1
+Fairfield Inn & Suites Holiday Tarpon Springs,3060 US Highway 19,3.5,3.1
+Hampton Inn - Indianapolis East,2311 N Shadeland Ave,2.0,3.1
+Wingate By Wyndham,13615 Riverport Dr.,3.0,3.1
+Holiday Inn Express Harvey-Marrero,2433 Manhattan Blvd,4.0,3.1
+Quality Inn Airport - Cruise Port,1020 S Dale Mabry,2.5,3.1
+Courtyard by Marriott Nashville Downtown,170 4th Ave N,3.0,3.1
+The Wayfarer,12 E Montecito St,4.0,3.1
+Grand Plaza Hotel & Beach Resort,5250 Gulf Blvd,3.0,3.1
+"Ramada Fairview Heights, Il",6900 North Illinois Street,2.5,3.1
+Royal Street Courtyard,2438 Royal St,4.0,3.1
+River 127,100 Iberville St,3.0,3.1
+Ameristar Casino Resort Spa St. Charles,One Ameristar Blvd,3.0,3.1
+SpringHill Suites Philadelphia Langhorne,200 North Buckstown Dr,3.0,3.1
+Airport Plaza Inn & Conference Center,4530 N Lindbergh Blvd,1.5,3.1
+Comfort Suites New Orleans East,7051 Bullard Ave,4.0,3.1
+Hampton Inn & Suites Boise/Spectrum,7499 W Overland Rd,4.0,3.1
+Residence Inn by Marriott Deptford,1154 North Hurffville Road,2.5,3.1
+Holiday Inn Express & Suites Tucson,1564 W Grant Rd,3.0,3.1
+Tru by Hilton Meridian Boise West,1401 S Eagle Rd,3.5,3.1
+The Cordova Inn,253 2nd Ave N,3.5,3.1
+Spring Hill Suites by Marriott,11855 N Meridian St,3.0,3.1
+Hotel Provincial,1024 Chartres St,4.0,3.1
+Hampton Inn Santa Barbara/Goleta,5665 Hollister Ave,3.5,3.1
+Place d'Armes Hotel,625 Saint Ann St,4.0,3.1
+Super 8 by Wyndham Whites Creek/ Nashville NW Area,"7551 Old Hickory Blvd, I-24, Exit 40",2.0,3.1
+Suburban Extended Stay Northeast,8055 Bash St,2.0,3.1
+DoubleTree by Hilton Hotel New Orleans Airport,2150 Veterans Memorial Blvd,3.0,3.1
+Staybridge Suites Philadelphia Valley Forge 422,88 Anchor Parkway,3.0,3.1
+Holiday Inn Express & Suites Tampa -Usf-Busch Gardens,2807 E Busch Blvd,2.5,3.1
+Four Points by Sheraton French Quarter,541 Bourbon St,3.5,3.1
+TownePlace Suites St. Petersburg Clearwater,13200 49th St N,3.0,3.1
+Residence Inn Philadelphia Airport,3701 Island Ave,4.0,3.1
+Comfort Inn South,5040 S East St,2.0,3.1
+"Candlewood Suites Ofallon, Il - St. Louis Area",1332 Park Plaza Dr,2.5,3.1
+The Hotel Modern,936 St Charles Ave,3.0,3.1
+TownePlace Suites Franklin Cool Springs,7153 South Springs Dr,4.0,3.1
+Crowne Plaza New Orleans-Airport,2829 Williams Blvd,3.0,3.1
+Quality Inn & Suites,4345 Southport Crossing Way,1.0,3.1
+Embassy Suites by Hilton Tucson Paloma Village,3110 E Skyline Dr,4.0,3.1
+Crowne Plaza Philadelphia - King of Prussia,260 Mall Blvd,3.0,3.1
+Bed Bath & Beyond,723 US Hwy 31 N,3.5,3.1
+Hotel Ignacio,3411 Olive St,4.0,3.1
+New Orleans Courtyard Hotel,1101 N Rampart St,2.5,3.1
+Radisson Hotel Nashville Airport,1112 Airport Center Dr,3.0,3.1
+Desert Diamond Casino Tucson,7350 S Nogales Hwy,2.5,3.1
+AC Hotel by Marriott Tampa Airport,4020 West Boy Scout Boulevard,4.5,3.1
+Residence Inn Philadelphia Langhorne,15 Cabot Blvd E,3.5,3.1
+TownePlace Suites by Marriott New Orleans Metairie,5424 Citrus Boulevard,2.5,3.1
+Drury Plaza Hotel Indianapolis Carmel,9625 North Meridian St,4.0,3.1
+Beach Side Palms,10200 Gulf Blvd,4.5,3.1
+Magnuson Hotel Clearwater Beach,421 South Gulfview Blvd,2.5,3.1
+Boise Hillside Suites,4480 N Kitsap Way,4.5,3.1
+Keystone Motel Co,801 Gulf Way,3.5,3.1
+Embassy Suites by Hilton Philadelphia Valley Forge,888 Chesterbrook Blvd,2.5,3.1
+Red Roof PLUS+ Philadelphia Airport,49 Industrial Hwy,2.0,3.1
+Suburban Extended Stay Hotel,3051 Hwy 90,3.5,3.1
+Hampton Inn St. Louis Southwest,9 Lambert Drury Dr,4.0,3.1
+Walt Whitman Service Area,700 NJ Tpke,2.0,3.1
+Hampton Inn & Suites Tampa Busch Gardens Area,3333 E Busch Blvd,3.0,3.1
+AC Hotel by Marriott Tucson Downtown,151 E Broadway Blvd,3.0,3.1
+Landmark Motel,1930 4th St N,3.5,3.1
+Hampton Inn & Suites Tarpon Springs,39284 US Hwy 19 N,4.0,3.1
+SpringHill Suites by Marriott Nashville Vanderbilt/West End,1800 W End Ave,3.5,3.1
+SpringHill Suites by Marriott St. Louis Airport/Earth City,3099 Rider Trail South,3.5,3.1
+Holiday Inn Express & Suites Nashville-I-40 & I-24 Spence Ln,714 Spence Ln,2.5,3.1
+Holiday Inn Express & Suites Tampa Stadium Airport Area,4750 N Dale Mabry Hwy,2.0,3.1
+Casa Del Mar Inn,18 Bath St,4.0,3.1
+Holiday Inn Express & Suites Clearwater North/Dunedin,975 Broadway,4.0,3.1
+Royal St Charles Hotel,135 St Charles Ave,3.0,3.1
+Sully Mansion Bed & Breakfast,2631 Prytania St,4.0,3.1
+Sheraton Clayton Plaza Hotel St. Louis,7730 Bonhomme Ave,2.5,3.1
+Hyatt Place New Orleans/Convention Center,881 Convention Center Blvd,3.5,3.1
+Red Roof Inn Tampa Fairgrounds - Casino,5001 N US Rte 301,2.0,3.1
+Magnuson Hotel Marina Cove,6800 Sunshine Skyway Ln S,3.0,3.1
+Quality Inn,4 South New Middletown Rd,1.5,3.1
+SureStay Plus Hotel by Best Western St. Louis Airport,11380 Natural Bridge Rd,1.0,3.1
+La Quinta by Wyndham USF,3701 East Fowler Ave,2.5,3.1
+Crowne Plaza Philadelphia West,4010 City Ave,2.5,3.1
+La Quinta Inn by Wyndham St. Louis Hazelwood - Airport North,318 Taylor Rd,2.0,3.1
+Four Points by Sheraton Suites Tampa Airport Westshore,4400 W Cypress St,3.5,3.1
+Fairfield Inn & Suites Indianapolis East,7110 East 21st St,4.0,3.1
+Fairfield Inn by Marriott Boise,3300 S Shoshone St,3.0,3.1
+Extended Stay America - Tampa - North Airport,5401 Beaumont Ctr. Blvd. East,1.5,3.1
+Alton Cracker Factory,205 E Broadway,5.0,3.1
+Americas Best Value Inn Indianapolis S,3401 South Keystone Avenue,1.5,3.1
+Golf Villas At Oro Valley,10950 N La Canada Dr,2.5,3.1
+French Market Inn,509 Decatur St,4.0,3.1
+Quality Inn Florissant-St Louis,55 Dunn Rd,2.5,3.1
+New Orleans Guest House,1118 Ursulines Ave,3.5,3.1
+Fairfield Inn & Suites Tampa Brandon,10150 Palm River Road,2.5,3.1
+Holiday Inn Express Nashville Downtown Conf Ctr,920 Broadway,2.5,3.1
+Wyndham Garden Hotel Baronne Plaza,201 Baronne Street,2.5,3.1
+Olivier House Hotel,828 Toulouse St,4.5,3.1
+Hotel Tucson City Center,475 N Granada Ave,2.0,3.1
+Comfort Inn & Suites North Tucson Marana,8425 N Cracker Barrel Rd,3.5,3.1
+Hilton New Orleans/St. Charles Avenue,333 St Charles Ave,3.0,3.1
+Circus Circus Reno,500 N Sierra St,2.5,3.1
+DoubleTree by Hilton Hotel Philadelphia Airport,4509 Island Ave,2.5,3.1
+Comfort Suites At Tucson Mall,515 West Auto Mall Dr,2.5,3.1
+Baymont by Wyndham Indianapolis,1540 Brookville Crossing Way,2.5,3.1
+Tarpon Shores Inn,40346 US Highway 19 N,3.0,3.1
+Sleep Inn Clearwater-St Petersburg,3939 Ulmerton Rd,4.0,3.1
+Hilton Garden Inn Reno,9920 Double R Blvd,3.0,3.1
+Hampton Inn & Suites Chadds Ford,40 State Farm Dr,4.0,3.1
+Homewood Suites by Hilton Indianapolis-Downtown,211 S Meridian St,3.5,3.1
+International House Hotel,221 Camp St,3.5,3.1
+Hilton Garden Inn Philadelphia/Ft. Washington,530 W Pennsylvania Ave,3.5,3.1
+Holiday Inn St. Louis - Forest Park,5915 Wilson Avenue,2.5,3.1
+Hampton Inn Philadelphia/Plymouth Meeting,2055 Chemical Rd,3.5,3.1
+La Veranda Bed & Breakfast,111 5th Ave N,4.0,3.1
+Hampton Inn & Suites Boise-Downtown,495 S Capitol Blvd,4.0,3.1
+Residence Inn by Marriott Nashville Vanderbilt/West End,1801 Hayes St,4.0,3.1
+Courtyard by Marriott Indianapolis Downtown,601 West Washington Street,3.0,3.1
+Lafayette Yard Marriott Conference Hotel,1 W Lafayette St,2.0,3.1
+Holiday Inn,3400 Rider Trl S,3.0,3.1
+La Quinta by Wyndham Boise Airport,2613 S. Vista Ave.,2.5,3.1
+Staybridge Suites Reno,10559 Professional Cir,3.5,3.1
+Barefoot Bay Resort & Marina,401 E Shore Dr,4.0,3.1
+Americas Best Value,701 E 7th St,1.5,3.1
+Residence Inn by Marriott Boise Downtown/City Center,400 S. Capitol Blvd,3.5,3.1
+"Copeland Tower Suites, an Ascend Hotel Collection Member","2601 Severn Ave, Building B",3.5,3.1
+Belleair Beach Resort Motel,2040 Gulf Blvd,3.5,3.1
+La Quinta by Wyndham Pontoon Beach,14 Regency Parkway,2.5,3.1
+Hampton Inn & Suites St. Petersburg/Downtown,80 Beach Dr NE,4.0,3.1
+Days Inn by Wyndham Newark Wilmington,900 Churchmans Road,2.0,3.1
+Magnuson Hotel and Marina New Port Richey,5015 US 19,1.5,3.1
+Hotel Indigo Saint Petersburg Downtown,234 3rd Ave N,3.0,3.1
+Best Western Plus Pontoon Beach,4 Regency Pkwy,3.0,3.1
+Comfort Inn And Suites Nashville,2615 Elm Hill,4.0,3.1
+Marriott Philadelphia West,111 Crawford Ave,3.0,3.1
+Aloft Tucson University,1900 East Speedway Blvd,3.0,3.1
+Belleair Beach Club,3200 Gulf Blvd,3.5,3.1
+Comfort Suites Ne Indianapolis Fishers,9760 Crosspoint Blvd,2.0,3.1
+Olde Town Inn,1001 Marigny St,3.0,3.1
+Rodeway Inn & Suites,4940 Chef Menteur Hwy,1.5,3.1
+Hilton Garden Inn New Orleans Airport,4535 Williams Blvd,2.5,3.1
+WoodSprings Suites,6295 Gateway Dr,2.5,3.1
+Tahitian Resort Motel,11300 Gulf Blvd,3.0,3.1
+Holiday Inn Express Indianapolis Airport,6296 Cambridge Way,2.5,3.1
+Hampton Inn Pennsville,429 N Broadway,3.5,3.1
+Embassy Suites by Hilton Philadelphia Center City,1776 Benjamin Franklin Pkwy,2.5,3.1
+Super 8 by Wyndham Brownsburg,"1100 N Green Street, I-74 Exit 66",1.5,3.1
+Comfort Inn & Suites Pottstown - Limerick,99 Robinson St,2.5,3.1
+Magnuson Hotel,809 Wren Rd,1.0,3.1
+Drury Inn & Suites St Louis Creve Coeur,11980 Olive Blvd,4.0,3.1
+Ashley's Victorian Haven Bed & Breakfast,313 N Grosse Ave,4.5,3.1
+Comfort Suites City Centre,515 S West St,2.5,3.1
+Courtyard by Marriott Indianapolis Northwest,7226 Woodland Dr,3.0,3.1
+Tampa Stadium Hotel,4750 N Dale Mabry Hwy,1.5,3.1
+Quality Inn & Suites Airport North,5251 S Julian Drive,1.5,3.1
+Royal North Beach,657 Mandalay Ave,2.5,3.1
+River's Edge,200 N Ashley Dr,3.5,3.1
+Best Western Wesley Chapel,5639 Oakley Blvd,2.5,3.1
+3 Palms Hotel Tucson,7411 N Oracle Rd,3.0,3.1
+Best Western Tucson Int'l Airport Hotel & Suites,6801 S Tucson Blvd,3.0,3.1
+Fairfield by Marriott,4 Gateway Dr,3.0,3.1
+Hampton Inn Indianapolis-SW/Plainfield,2244 E Perry Rd,3.5,3.1
+Hilton Garden Inn New Orleans Convention Center,1001 S Peters St,3.0,3.1
+Hotel St. Helene,508 Rue Chatres,3.5,3.1
+Hotel Congress,311 E Congress St,4.0,2.9
+Holiday Inn Lansdale - Hatfield,1750 Sumneytown Pike,2.0,2.9
+The New York Diner,2126 Jelane Dr,4.0,2.4
+Bob Evans,2410 66th St N,3.0,2.4
+The Station Inn,402 12th Ave S,4.5,2.4
+Bob Evans,9510 Aronson Dr,3.0,2.4
+Bob Evans,7525 E 96th St,2.5,2.4
+Bob Evans,8350 Windfall Ln,2.0,2.4
+Bayou Bar,2031 St Charles Ave,4.0,2.3
+Bob Evans,4900 34th St S,2.5,2.3
+Cheshire Lodge,6300 Clayton Rd,4.0,2.3
+Fortuna Inn,333 W Drachman St,2.0,2.3
+Super 8,9798 Saint Charles Rock Rd,1.0,2.1
+Super 8 by Wyndham Tucson Downtown Convention Center,"715 West Starr Pass Blvd, I-10 Exit 259",2.0,2.1
+Travelodge by Wyndham New Orleans West Harvey Hotel,2200 Westbank Expy,1.5,2.1
+First Western Inn,8787 Sasak Pl,1.0,2.1
+Silverbell Inn,720 W Silverdale Rd,1.5,2.1
+Mag's 940,940 Elysian Fields Ave,4.0,2.1
+Intown Suites,887 E Main St,2.5,2.1
+Econo Lodge,1412 Brick Church Pike,1.5,2.1
+Ivy Inn,37 Brookline Blvd,4.5,2.1
+Motel 6,323 Cartwright St,2.0,2.1
+Suncoast Motel of Treasure Island,10264 Gulf Blvd,4.5,2.1
+Rodeway Inn,28596 US Hwy 19 N,1.5,2.1
+French Creek Inn,Rts 23 & 724,3.0,2.1
+Americas Best Value,5768 Old Hickorty Blvd,1.5,2.1
+Bob Evans,2183 Gulf To Bay Blvd,3.5,2.1
+Motel 6,866 N Wells Ave,2.0,2.1
+Drake Inn,420 Murfreesboro Pike,1.5,2.1
+Hyde Park Hotel,2105 W Bristol Ave,2.5,2.1
+Rodeway Inn,311 West Trinity Lane,1.5,2.1
+Rodeway Inn,893 Murfreesboro Pike,2.0,2.1
+Holiday Inn Express & Suites Tampa-I-75 @ Bruce B. Downs,8310 Galbraith Rd,4.5,2.1
+Howard Johnson Hotel by Wyndham Tampa Airport/Stadium,2055 North Dale Mabry Hwy.,1.5,2.1
+Five Palms Condominium Resort,673 Bay Esplanade,4.5,2.1
+Super 8 by Wyndham Bridgeton/Arpt/St Louis Area,"I-270, Exit 20C, 12705 St Charles Rock Rd",1.5,2.1
+Super 8 Nashville Airport,720 Royal Pkwy,3.5,2.1
+Quality Inn & Suites,3671 St Rd,1.5,2.1
+The Quisby,1225 St Charles Ave,4.5,2.1
+Bob Evans,7649 E US Highway 36,2.0,2.1
+Days Inn & Suites by Wyndham Tucson/Marana,8370 North Cracker Barrel Rd,2.5,2.1
+Sand Vista Motel,17495 Gulf Blvd,4.5,2.1
+Comfort Inn Levittown - Bensalem,6401 Bristol Pk,1.5,2.1
+TownePlace Suites Philadelphia Horsham,198 Precision Dr,3.0,2.1
+Red Carpet Inn,418 Crescent Blvd,1.5,2.1
+Motel 6,960 S Freeway Rd,2.0,2.1
+Contempra Inn,2820 Williams Blvd,2.0,2.1
+Econo Lodge Near Reno-Sparks Convention Center,1885 S Virginia St,1.5,2.1
+Americas Best Value Inn Goodlettsville Nashville N,622 Rivergate Parkway,1.5,2.1
+Americas Best Value Inn Pottstown,29 East High Street,2.0,2.1
+Days Inn by Wyndham Nashville At Opryland/Music Valley Dr,2460 Music Valley Drive,2.0,2.1
+Motel 6,801 Crescent Blvd,1.5,2.1
+Tucson Inn,127 W Drachman St,1.0,2.1
+Quality Inn & Suites St. Petersburg - Clearwater Airport,3655 Hospitality Lane,1.5,2.1
+Super 8 by Wyndham Pontoon Beach IL/St. Louis MO Area,"4141 Timberlake Drive, I-270 Exit 6A-B/Highway 111",3.0,2.1
+Motel 6,12330 Dorsett Rd,2.0,2.1
+Motel 6,1031 E Benson Hwy,1.5,2.1
+Colonial Inn,4343 Madison Ave,4.0,2.1
+Morris Burner Hostel,400 E 4th St,4.5,2.1
+Valley Forge Service Plaza,I-76 Eastbound Milepost 324,2.5,2.1
+Days Inn by Wyndham Chester Philadelphia Airport,1300 Providence Ave,1.5,2.1
+Magnuson Hotel Clearwater Central,21252 US Hwy 19 N,2.0,2.1
+Mardi Gras Rv Park & Motel,6050 Chef Menteur Hwy,1.0,2.1
+Scott Inn,1510 Beech St,3.5,2.1
+Econo Lodge Inn & Suites,187 US 130 & 206,2.5,2.1
+Skyview Plaza Hotel,2033 Penrose Ave,1.0,2.1
+Motel 6,9942 E Adamo Dr,2.0,2.1
+Silver Sands Motel,415 Hamden Dr,3.5,2.1
+Pear Tree Inn St Louis Fenton,1100 South Highway Dr,4.0,2.1
+Extended Stay America - Tucson - Grant Road,5050 E. Grant Rd.,1.5,2.1
+Motel 6,4200 Old Gentilly Rd,2.0,2.1
+Days Inn by Wyndham Clearwater/Central,2940 Gulf To Bay Blvd,1.5,2.1
+Best Western Plus New Orleans Airport Hotel,189 W Airline Dr,2.5,2.1
+Days Inn by Wyndham Indianapolis East Post Road,2150 North Post Road,1.0,2.1
+Days Hotel West Chester- Brandywine Valley,943 S. High St,2.0,2.1
+Super 8 by Wyndham Indianapolis,"4033 East Southport Rd, I-65 to Exit 103",2.5,2.1
+Hacienda Motel,1742 N Oracle Rd,3.5,2.1
+Quality Inn Northwest,9251 Wesleyan Rd,1.5,2.1
+Motel 6,5151 Elmwood Ave,2.0,2.1

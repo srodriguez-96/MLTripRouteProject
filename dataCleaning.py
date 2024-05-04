@@ -39,7 +39,11 @@ def dataClean():
     #Use pd.get_dummies to handle categorical data
     X = pd.get_dummies(data[['accepts_credit_cards', 'price_range', 'good_for_kids', 'outdoor_seating', 'noise_level']], drop_first=True)
     y = data['stars']
-
+    print('Header names:')
+    print(X.columns.tolist())
+    print('\nFirst row values:')
+    print(X.iloc[0].tolist())
     #Splitting the data into training and testing sets
     x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    print(x_train)
     return x_train, x_test, y_train, y_test, data, X

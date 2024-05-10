@@ -16,32 +16,32 @@ def svm_regression(X_train, y_train, X_test, y_test, data, X):
     print(f'Mean Squared Error SVR: {mse}')
 
     # Plotting the SVR function
-    plt.figure(figsize=(10, 6))
+    '''plt.figure(figsize=(10, 6))
     if isinstance(X_train, pd.DataFrame):
         X_train = X_train.to_numpy()  # Convert DataFrame to NumPy array
     if X_train.ndim > 1:
-        plt.scatter(X_train[:, 0], y_train, color='black', label='Training data')
+        plt.scatter(X_train[:10, 0], y_train[:10], color='black', label='Training data')  # Plot only first 10 points
     else:
-        plt.scatter(X_train, y_train, color='black', label='Training data')
+        plt.scatter(X_train[:10], y_train[:10], color='black', label='Training data')  # Plot only first 10 points
     if isinstance(X_test, pd.DataFrame):
         X_test = X_test.to_numpy()  # Convert DataFrame to NumPy array
     if X_test.ndim > 1:
-        plt.scatter(X_test[:, 0], y_test, color='red', label='Testing data')
+        plt.scatter(X_test[:10, 0], y_test[:10], color='red', label='Testing data')  # Plot only first 10 points
     else:
-        plt.scatter(X_test, y_test, color='red', label='Testing data')
+        plt.scatter(X_test[:10], y_test[:10], color='red', label='Testing data')  # Plot only first 10 points
     if isinstance(X, pd.DataFrame):
         X = X.to_numpy()  # Convert DataFrame to NumPy array
     if X.ndim > 1:
-        plt.plot(X[:, 0], svr_model.predict(X), color='blue', linewidth=3, label='SVR Prediction')
+        plt.plot(X[:10, 0], svr_model.predict(X[:10]), color='blue', linewidth=3, label='SVR Prediction')  # Plot only first 10 points
     else:
-        plt.plot(X, svr_model.predict(X), color='blue', linewidth=3, label='SVR Prediction')
+        plt.plot(X[:10], svr_model.predict(X[:10]), color='blue', linewidth=3, label='SVR Prediction')  # Plot only first 10 points
     plt.xlabel('X')
     plt.ylabel('y')
     plt.title('SVR Prediction')
     plt.legend()
     plt.grid(True)
     plt.show()
-
+    '''
 
     #Predicting the ratings for all hotels
     data['predicted_stars'] = svr_model.predict(X)

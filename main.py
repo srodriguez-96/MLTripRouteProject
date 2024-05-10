@@ -5,7 +5,8 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 import svm
 import dataCleaning
-import logisticReg
+#import neuralNetwork
+#import logisticReg
 import linearReg
 import pandas as pd
 
@@ -62,6 +63,7 @@ def main():
     #calls linearReg with data
     linearModel = linearReg.linearRegModel(x_train, y_train, x_test, y_test, data, valueX)
     svrModel = svm.svm_regression(x_train, y_train, x_test, y_test, data, valueX)
+    #nnModel = neuralNetwork.neuralNetworkModel(x_train, y_train, x_test, y_test, data, valueX)
     #logisticModel = logisticReg.logisticRegModel(x_train, y_train, x_test, y_test, data, valueX)
 
     while True:
@@ -126,6 +128,8 @@ def main():
         # Make predictions using the linear regression model
         linearPred = linearModel.predict(user_data)
         svrPred = svrModel.predict(user_data)
+        #nnPred = nnModel.predict(user_data)
+        #logisticPred = logisticModel.predict(user_data)
 
 
         #UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
